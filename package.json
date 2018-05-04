@@ -1,0 +1,18 @@
+{
+  "name": "xoox-flatten",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "pemrouz (https://github.com/pemrouz)",
+  "license": "pemrouz.mit-license.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pemrouz/xoox-flatten.git"
+  },
+  "dependencies": {
+    "xoox-until": "^1.0.1"
+  , "xoox": "^1.0.0"
+  },
+  "devDependencies": {
+    "utilise": "^2.3.6"
+  }
+}
