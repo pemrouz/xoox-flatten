@@ -25,7 +25,7 @@ test('should flatten arrays', async ({ same, plan }) => {
   )
 })
 
-test('should flatten arrays', async ({ same, plan }) => {
+test('should flatten stream of streams', async ({ same, plan }) => {
   plan(1)
   const el = emitterify({})
       
