@@ -9,8 +9,8 @@
     "url": "git://github.com/pemrouz/xoox-flatten.git"
   },
   "dependencies": {
-    "xoox-until": "^1.0.1",
-    "xoox": "^1.0.0"
+    "xoox-transform": "^1.1.0",
+    "xoox-until": "^1.0.1"
   },
   "devDependencies": {
     "utilise": "^2.3.6"
